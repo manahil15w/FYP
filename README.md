@@ -1,1 +1,1 @@
-This is the GitHub repository for our final year project "Proportional-Differential and Low-Chattering Sliding Mode Controllers for Quadrotor Drone." It contains all the codes we used and Simulink models as well.
+This is the GitHub repository for our final year project "Proportional-Differential and Low-Chattering Sliding Mode Controllers for Quadrotor Drone." It contains all the codes we used, Simulink models, and also the results in form of plots.
